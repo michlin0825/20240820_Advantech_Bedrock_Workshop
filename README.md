@@ -1,1 +1,1 @@
-# 20240820_Advantech_Bedrock_Workshop
+# 20240820_Advantech_Workshop
